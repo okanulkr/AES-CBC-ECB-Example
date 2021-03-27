@@ -19,7 +19,7 @@ import argparse
 # getting image path from command line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("-f")
-parser.add_argument("-i", default="photo.jpg")
+parser.add_argument("-i", default="moon.jpg")
 args = parser.parse_args()
 
 
