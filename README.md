@@ -1,7 +1,7 @@
 # AES-CBC-ECB-Example
 Image encryption script used to show the difference between the two algorithms ECB and CBC.
 
-# USAGE
+# Usage
 
 ```
 $ cipher.py -i apple.jpg
