@@ -12,5 +12,5 @@ $ cipher.py -i cat.jpg
 ```
 
 ```
-$ cipher.py -i shapein.jpg
+$ cipher.py -i moon.jpg
 ```
